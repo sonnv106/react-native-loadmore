@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "loadmore",
+    "slug": "loadmore",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "loadmore"
+}
